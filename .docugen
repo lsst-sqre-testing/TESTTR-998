@@ -1,0 +1,3 @@
+#!/bin/bash
+docsteady --version
+docsteady generate-tpr LVV-TEST TESTTR-998.tex --trace true
